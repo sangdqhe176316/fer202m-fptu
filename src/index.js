@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import App from './slot2/Mapping-Collections-to-elements/App'
+import App from './App'
 import MyComponent from './slot2/create-jsx-elements/MyComponent';
 import MySection from './slot2/create-jsx-elements/MySection';
 import MyButton from './slot2/create-jsx-elements/MyButton';
